@@ -11,9 +11,11 @@ Under construction
 
 ### Training Cap
 - sh run_caption.sh
-'''
+
+```
+#configure the training
 DATA_SELECT=2000 # SELECT 2000 or 9000
-'''
+```
 
 ### Training Proposal
 - sh run_proposal.sh
