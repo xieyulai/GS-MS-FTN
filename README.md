@@ -11,7 +11,6 @@ Under construction
 
 ### Training Cap
 - sh run_caption.sh
-Configure the training:
 '''
 DATA_SELECT=2000 # SELECT 2000 or 9000
 '''
