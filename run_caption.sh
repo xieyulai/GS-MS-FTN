@@ -6,13 +6,13 @@ MODALITY=audio_video_text
 
 EPOCH=30
 
-BATCH=2
+BATCH=8
 
 LR=5e-5
 
 one_by_one_starts_at=5
 
-DATA_SELECT=9000
+DATA_SELECT=2000
 
 DEVICE_IDS=0
 
