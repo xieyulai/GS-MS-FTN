@@ -1,5 +1,5 @@
 # GS-MS-FTN for MM-DVC
-Code and data for the paper [Global-shared Text Representation based Multi-Stage Fusion Transformer Network for Multi-modal Dense Video Captioning]()
+Code and data for the paper [Global-shared Text Representation based Multi-Stage Fusion Transformer Network for Multi-modal Dense Video Captioning](https://ieeexplore.ieee.org/document/10227555/)
 
 NOTE: This repo is still under construction.
 
