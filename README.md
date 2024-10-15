@@ -6,7 +6,17 @@ NOTE: This repo is still under construction.
 
 Please cite the following paper if you use this repository in your research.
 ```
-Under construction
+@ARTICLE{10227555,
+  author={Xie, Yulai and Niu, Jingjing and Zhang, Yang and Ren, Fang},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Global-Shared Text Representation Based Multi-Stage Fusion Transformer Network for Multi-Modal Dense Video Captioning}, 
+  year={2024},
+  volume={26},
+  number={},
+  pages={3164-3179},
+  keywords={Proposals;Visualization;Task analysis;Semantics;Transformers;Correlation;Fuses;Anchor-free target detection;dense video captioning;global-shared text;multi-modal analysis;multi-stage fusion},
+  doi={10.1109/TMM.2023.3307972}}
+
 ```
 
 ### Training Cap
